@@ -1,5 +1,4 @@
-# Português
-E aí! Eu sou o Carlos Daniel, tenho 18 anos e sou um grande fã de tecnologia, em especial da área de desenvolvimento. Hoje tenho focado no desenvolvimento web, estudando principalmente Javascript, tanto para o mercado de trabalho quanto para o desenvolvimento de projetos pessoais!
+# Carlos Daniel
+Great enthusiast of the best web development techs.
 
-# English
-Hey there! My name is Carlos Daniel, I'm 18 yo and a big fan of thecnology, especially the development area. Today I've been focusing on web development, studying Javascript.
+[![Twitter Badge](https://img.shields.io/twitter/url?label=carlosdnba&style=social&url=https%3A%2F%2Ftwitter.com%2Fcarlosdnba)](https://twitter.com/carlosdnba)
